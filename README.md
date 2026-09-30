@@ -4,7 +4,7 @@ A Multi-Layer Perceptron with **three hidden layers**, implemented from scratch 
 
 > Course project — *Computational Intelligence*, Dept. of Computer Science & Engineering, Academic Year 2022-23.
 
-![Best generalization](docs/best_generalization.png)
+![Best generalization](docs/best-generalization.png)
 
 <sub>Test set classified by the best network. Green `+` = correct, red `–` = misclassified.</sub>
 

@@ -101,11 +101,3 @@ The full results tables are in [`docs/MLP_report.pdf`](docs/MLP_report.pdf).
 - **Smaller batches (B = 40)** gave equal or better accuracy than B = 400.
 - Results depend on the random weight initialization.
 
-## 👥 Authors
-
-- Vasileios Skarafigas
-- Konstantinos Christopoulos
-
-## 📄 License
-
-Released for educational purposes. Add a license (e.g. MIT) if you want others to reuse the code.
